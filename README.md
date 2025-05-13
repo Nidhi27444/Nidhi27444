@@ -18,7 +18,7 @@ A Master's student in **Computer Engineering for IoT Systems** at Hochschule Nor
 
 ### 💼 Previous Experience
 
-I bring over 4 years of experience in **technical HR and project coordination**. I’ve now transitioned into embedded software and sensor system integration — combining people skills with deep tech problem-solving.
+I bring over 4 years of experience in **technical HR **. I’ve now transitioned into** embedded software and sensor system integration** — combining people skills with deep tech problem-solving.
 
 ---
 
